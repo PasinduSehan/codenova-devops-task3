@@ -1,0 +1,13 @@
+{
+  "name": "codenova-devops-task3",
+  "version": "1.0.0",
+  "description": "Multi-Container Web App with Redis and Docker Compose",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "redis": "^4.6.13"
+  }
+}
