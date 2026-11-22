@@ -28,7 +28,7 @@ codenova-devops-task3/
 └── README.md               # Setup instructions & documentation
 
 ---
-
+```
 ## 📸 Execution Screenshots
 
 ### 1. Successful Docker Compose Build
