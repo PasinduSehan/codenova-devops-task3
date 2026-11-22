@@ -26,3 +26,16 @@ codenova-devops-task3/
 ├── LICENSE                 # MIT License
 ├── package.json            # Application dependencies
 └── README.md               # Setup instructions & documentation
+
+---
+
+## 📸 Execution Screenshots
+
+### 1. Successful Docker Compose Build
+![Docker Build](screenshot_about_project/build.png)
+
+### 2. Image Size Inspection & Running Containers
+![Docker Images and PS](screenshot_about_project/images.png)
+
+### 3. Running Web Application with Redis Counter
+![Running Web App](screenshot_about_project/app.png)
